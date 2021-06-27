@@ -5,8 +5,6 @@ This is my version from a PCB Xmas Tree. You can check how it works on my youtub
 
 I made this PCB Christmas tree using the *EasyEDA* software and then ordered it online at [*JLCPCB*](https://jlcpcb.com/IRG)
 
-Click on the link below to check the video
-
-https://www.youtube.com/watch?v=Fe6uz7HefOc
+Click to check the video on [*YouTube*](https://www.youtube.com/watch?v=Fe6uz7HefOc)
 
 ![showcase](https://github.com/rkfael/PCB-Xmas-tree/blob/main/Xmas%20Tree_Picture%201.jpg)
