@@ -8,3 +8,5 @@ I made this PCB Christmas tree using the *EasyEDA* software and then ordered it 
 Click on the link below to check the video
 
 https://www.youtube.com/watch?v=Fe6uz7HefOc
+
+![showcase](https://github.com/rkfael/PCB-Xmas-tree/blob/main/Xmas%20Tree_Picture%201.jpg)
